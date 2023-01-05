@@ -1,8 +1,8 @@
 # My-Profile
 
-Hi.. I'm Riza
+Hi.. I'm Youra
 
-My Name : Achmad Fahriza
+My name is Achmad Fahriza
 
 I'm currently Informatics Student at Telkom University
 
